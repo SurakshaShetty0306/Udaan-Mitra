@@ -1,0 +1,6 @@
+{
+  "name": "Udhaar Mitra",
+  "description": "Approval-first AI credit agent for informal shopkeepers that connects payment commitments to real outcomes while keeping the merchant in control.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
